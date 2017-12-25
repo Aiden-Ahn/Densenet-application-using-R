@@ -1,0 +1,10 @@
+name: cifar10_densenet
+title:
+username:
+account: aidencahn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 242023
+bundleId: 1112970
+url: https://aidencahn.shinyapps.io/cifar10_densenet/
+when: 1512350863.10376
